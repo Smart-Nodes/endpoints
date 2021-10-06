@@ -1,12 +1,15 @@
 # Endpoints
  ## Available Coins
  * [Akash](akash)
+ * [Band](band)
  * [Bitsong](bitsong)
  * [Cosmos](cosmos)
  * [E-Money](e-money)
  * [Fetch](fetch)
  * [IXO](ixo)
  * [Juno](juno)
+ * [Kava](kava)
+ * [Ki Chain](kichain)
  * [Medibloc](medibloc)
  * [Osmosis](osmosis)
  * [Persistence](persistence)
