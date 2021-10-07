@@ -4,3 +4,6 @@ Type | Endpoint
 ------------ | -------------
 API | https://api.kava.smartnodes.co
 RPC | https://rpc.kava.smartnodes.co
+
+## Documentation
+https://swagger.kava.io/
