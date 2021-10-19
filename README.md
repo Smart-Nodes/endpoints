@@ -11,6 +11,7 @@
  * [Kava](kava)
  * [Ki Chain](kichain)
  * [Medibloc](medibloc)
+ * [Microtick](microtick)
  * [Osmosis](osmosis)
  * [Persistence](persistence)
  * [Sentinel](sentinel)
