@@ -58,5 +58,9 @@
     "sifchain": {
       "api": "https://api.sifchain.smartnodes.co",
       "rpc": "https://rpc.sifchain.smartnodes.co"
+    },
+    "desmos": {
+      "api": "https://api.desmos.smartnodes.co",
+      "rpc": "https://rpc.desmos.smartnodes.co"
     }
   }
