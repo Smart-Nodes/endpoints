@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.cosmos.smartnodes.co
-RPC | https://rpc.cosmos.smartnodes.co
+API | https://api.cosmos.smartnodes.co.uk
+RPC | https://rpc.cosmos.smartnodes.co.uk
