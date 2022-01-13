@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.bitsong.smartnodes.co
-RPC | https://rpc.bitsong.smartnodes.co
+API | https://api.bitsong.smartnodes.co.uk
+RPC | https://rpc.bitsong.smartnodes.co.uk
