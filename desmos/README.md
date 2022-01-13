@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.desmos.smartnodes.co
-RPC | https://rpc.desmos.smartnodes.co
+API | https://api.desmos.smartnodes.co.uk
+RPC | https://rpc.desmos.smartnodes.co.uk
