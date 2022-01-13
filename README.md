@@ -19,7 +19,7 @@
 
 ## Documentation
 On all of our Nodes we enabled the built in Swagger API documentation. On most of the coins the documentation can be found on:
-`https://api.coinname.smartnodes.co/swagger/#/`
+`https://api.coinname.smartnodes.co.uk/swagger/#/`
 
 ## Custom Request
 
