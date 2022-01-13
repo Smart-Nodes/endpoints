@@ -1,7 +1,7 @@
 {
     "akash": {
       "api": "https://api.akash.smartnodes.co.uk",
-      "rpc": "https://rpc.akash.smartnodes.co.uk.uk"
+      "rpc": "https://rpc.akash.smartnodes.co.uk"
     },
     "bitsong": {
       "api": "https://api.bitsong.smartnodes.co.uk",
