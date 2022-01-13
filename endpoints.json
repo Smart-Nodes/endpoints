@@ -1,66 +1,66 @@
 {
     "akash": {
-      "api": "https://api.akash.smartnodes.co",
-      "rpc": "https://rpc.akash.smartnodes.co"
+      "api": "https://api.akash.smartnodes.co.uk",
+      "rpc": "https://rpc.akash.smartnodes.co.uk.uk"
     },
     "bitsong": {
-      "api": "https://api.bitsong.smartnodes.co",
-      "rpc": "https://rpc.bitsong.smartnodes.co"
+      "api": "https://api.bitsong.smartnodes.co.uk",
+      "rpc": "https://rpc.bitsong.smartnodes.co.uk"
     },
     "cosmos": {
-      "api": "https://api.cosmos.smartnodes.co",
-      "rpc": "https://rpc.cosmos.smartnodes.co"
+      "api": "https://api.cosmos.smartnodes.co.uk",
+      "rpc": "https://rpc.cosmos.smartnodes.co.uk"
     },
     "emoney": {
-      "api": "https://api.emoney.smartnodes.co",
-      "rpc": "https://rpc.emoney.smartnodes.co"
+      "api": "https://api.emoney.smartnodes.co.uk",
+      "rpc": "https://rpc.emoney.smartnodes.co.uk"
     },
     "fetch": {
-      "api": "https://api.fetch.smartnodes.co",
-      "rpc": "https://rpc.fetch.smartnodes.co"
+      "api": "https://api.fetch.smartnodes.co.uk",
+      "rpc": "https://rpc.fetch.smartnodes.co.uk"
     },
     "ixo": {
-      "api": "https://api.ixo.smartnodes.co",
-      "rpc": "https://rpc.ixo.smartnodes.co"
+      "api": "https://api.ixo.smartnodes.co.uk",
+      "rpc": "https://rpc.ixo.smartnodes.co.uk"
     },
     "juno": {
-      "api": "https://api.juno.smartnodes.co",
-      "rpc": "https://rpc.juno.smartnodes.co"
+      "api": "https://api.juno.smartnodes.co.uk",
+      "rpc": "https://rpc.juno.smartnodes.co.uk"
     },
     "kava": {
-      "api": "https://api.kava.smartnodes.co",
-      "rpc": "https://rpc.kava.smartnodes.co"
+      "api": "https://api.kava.smartnodes.co.uk",
+      "rpc": "https://rpc.kava.smartnodes.co.uk"
     },
     "kichain": {
-      "api": "https://api.kichain.smartnodes.co",
-      "rpc": "https://rpc.kichain.smartnodes.co"
+      "api": "https://api.kichain.smartnodes.co.uk",
+      "rpc": "https://rpc.kichain.smartnodes.co.uk"
     },
     "medibloc": {
-      "api": "https://api.medibloc.smartnodes.co",
-      "rpc": "https://rpc.medibloc.smartnodes.co"
+      "api": "https://api.medibloc.smartnodes.co.uk",
+      "rpc": "https://rpc.medibloc.smartnodes.co.uk"
     },
     "microtick": {
-      "api": "https://api.microtick.smartnodes.co",
-      "rpc": "https://rpc.microtick.smartnodes.co"
+      "api": "https://api.microtick.smartnodes.co.uk",
+      "rpc": "https://rpc.microtick.smartnodes.co.uk"
     },
     "osmosis": {
-      "api": "https://api.osmosis.smartnodes.co",
-      "rpc": "https://rpc.osmosis.smartnodes.co"
+      "api": "https://api.osmosis.smartnodes.co.uk",
+      "rpc": "https://rpc.osmosis.smartnodes.co.uk"
     },
     "persistence": {
-      "api": "https://api.persistence.smartnodes.co",
-      "rpc": "https://rpc.persistence.smartnodes.co"
+      "api": "https://api.persistence.smartnodes.co.uk",
+      "rpc": "https://rpc.persistence.smartnodes.co.uk"
     },
     "sentinel": {
-      "api": "https://api.sentinel.smartnodes.co",
-      "rpc": "https://rpc.sentinel.smartnodes.co"
+      "api": "https://api.sentinel.smartnodes.co.uk",
+      "rpc": "https://rpc.sentinel.smartnodes.co.uk"
     },
     "sifchain": {
-      "api": "https://api.sifchain.smartnodes.co",
-      "rpc": "https://rpc.sifchain.smartnodes.co"
+      "api": "https://api.sifchain.smartnodes.co.uk",
+      "rpc": "https://rpc.sifchain.smartnodes.co.uk"
     },
     "desmos": {
-      "api": "https://api.desmos.smartnodes.co",
-      "rpc": "https://rpc.desmos.smartnodes.co"
+      "api": "https://api.desmos.smartnodes.co.uk",
+      "rpc": "https://rpc.desmos.smartnodes.co.uk"
     }
   }
