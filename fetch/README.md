@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.fetch.smartnodes.co
-RPC | https://rpc.fetch.smartnodes.co
+API | https://api.fetch.smartnodes.co.uk
+RPC | https://rpc.fetch.smartnodes.co.uk
