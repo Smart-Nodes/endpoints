@@ -1,4 +1,4 @@
-# Bitcann
+# Bitcanna
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
