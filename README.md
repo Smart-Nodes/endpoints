@@ -15,7 +15,7 @@
  * [Juno](juno)
  * [Kava](kava)
  * [Ki Chain](kichain)
- * [Lum)(lum)
+ * [Lum](lum)
  * [Medibloc](medibloc)
  * [Microtick](microtick)
  * [Odin](odin)
