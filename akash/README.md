@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.akash.smartnodes.co.uk
-RPC | https://rpc.akash.smartnodes.co.uk
+API | https://api.akash.smartnodes.one
+RPC | https://rpc.akash.smartnodes.one
