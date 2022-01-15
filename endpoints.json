@@ -3,25 +3,25 @@
       "api": "https://api.akash.smartnodes.one",
       "rpc": "https://rpc.akash.smartnodes.one"
     },
-	"bitcanna": {
-	  "api": "https://api.bitcanna.smartnodes.one",
-	  "rpc": "https://rpc.bitcanna.smartnodes.one"
-	},
+    "bitcanna": {
+      "api": "https://api.bitcanna.smartnodes.one",
+      "rpc": "https://rpc.bitcanna.smartnodes.one"
+    },
     "bitsong": {
       "api": "https://api.bitsong.smartnodes.one",
       "rpc": "https://rpc.bitsong.smartnodes.one"
     },
-	"cheqd":  {
-	  "api": "https://api.cheqd.smartnodes.one",
-	  "rpc": "https://rpc.cheqd.smartnodes.one"
-	},
-	"chihuahua": {
-	  "api": "https://api.chihuahua.smartnodes.one",
-	  "rpc": "https://rpc.chihuahua.smartnodes.one",
-	},
-	"comdex": {
-	  "api": "https://api.comdex.smartnodes.one",
-	  "rpc": "https://rpc.comdex.smartnodes.one"
+    "cheqd":  {
+      "api": "https://api.cheqd.smartnodes.one",
+      "rpc": "https://rpc.cheqd.smartnodes.one"
+    },
+    "chihuahua": {
+      "api": "https://api.chihuahua.smartnodes.one",
+      "rpc": "https://rpc.chihuahua.smartnodes.one",
+    },
+    "comdex": {
+      "api": "https://api.comdex.smartnodes.one",
+      "rpc": "https://rpc.comdex.smartnodes.one"
     },
     "cosmos": {
       "api": "https://api.cosmos.smartnodes.one",
@@ -29,15 +29,15 @@
     "desmos": {
 	  "api": "https://api.desmos.smartnodes.one",
 	  "rpc": "https://rpc.desmos.smartnodes.one"
-	},
+    },
     "emoney": {
       "api": "https://api.emoney.smartnodes.one",
       "rpc": "https://rpc.emoney.smartnodes.one"
     },
-	"evmos": {
-	  "api": "https://api.evmos.smartnodes.one",
-	  "rpc": "https://rpc.evmos.smartnodes.one"
-	},
+    "evmos": {
+      "api": "https://api.evmos.smartnodes.one",
+      "rpc": "https://rpc.evmos.smartnodes.one"
+    },
     "fetch": {
       "api": "https://api.fetch.smartnodes.one",
       "rpc": "https://rpc.fetch.smartnodes.one"
@@ -58,9 +58,10 @@
       "api": "https://api.kichain.smartnodes.one",
       "rpc": "https://rpc.kichain.smartnodes.one"
     },
-	"lum": {
-	  "api": "https://api.lum.smartnodes.one",
-	  "rpc": "https://rpc.lum.smartnodes.one"
+    "lum": {
+      "api": "https://api.lum.smartnodes.one",
+      "rpc": "https://rpc.lum.smartnodes.one"
+    },	    
     "medibloc": {
       "api": "https://api.medibloc.smartnodes.one",
       "rpc": "https://rpc.medibloc.smartnodes.one"
@@ -69,14 +70,14 @@
       "api": "https://api.microtick.smartnodes.one",
       "rpc": "https://rpc.microtick.smartnodes.one"
     },
-	"odin": {
-	  "api": "https://api.odin.smartnodes.one",
-	  "rpc": "https://rpc.odin.smartnodes.one"
-	},
-	"omniflix": {
-	  "api": "https://api.omniflix.smartnodes.one",
-	  "rpc": "https://rpc.omniflix.smartnodes.one"
-	},
+    "odin": {
+      "api": "https://api.odin.smartnodes.one",
+      "rpc": "https://rpc.odin.smartnodes.one"
+    },
+    "omniflix": {
+      "api": "https://api.omniflix.smartnodes.one",
+      "rpc": "https://rpc.omniflix.smartnodes.one"
+    },
     "osmosis": {
       "api": "https://api.osmosis.smartnodes.one",
       "rpc": "https://rpc.osmosis.smartnodes.one"
