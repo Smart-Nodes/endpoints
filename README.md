@@ -31,5 +31,5 @@ On all of our Nodes we enabled the built in Swagger API documentation. On most o
 
 ## Custom Request
 
-If you experience any issue with our endpoints or or need other endpoints feel free to open an issue. 
+If you experience any issue with our endpoints or need other endpoints feel free to open an issue. 
 
