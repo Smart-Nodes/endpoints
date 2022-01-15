@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.persistence.smartnodes.co.uk
-RPC | https://rpc.persistence.smartnodes.co.uk
+API | https://api.persistence.smartnodes.one
+RPC | https://rpc.persistence.smartnodes.one

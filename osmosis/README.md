@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.osmosis.smartnodes.co.uk
-RPC | https://rpc.osmosis.smartnodes.co.uk
+API | https://api.osmosis.smartnodes.one
+RPC | https://rpc.osmosis.smartnodes.one

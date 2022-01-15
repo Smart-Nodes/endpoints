@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.ixo.smartnodes.co.uk
-RPC | https://rpc.ixo.smartnodes.co.uk
+API | https://api.ixo.smartnodes.one
+RPC | https://rpc.ixo.smartnodes.one

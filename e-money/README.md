@@ -1,4 +1,4 @@
-# Fetch AI
+# Emoney
 ## Mainnet
 Type | Endpoint
 ------------ | -------------

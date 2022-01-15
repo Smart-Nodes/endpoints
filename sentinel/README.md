@@ -2,5 +2,5 @@
 ## Mainnet
 Type | Endpoint
 ------------ | -------------
-API | https://api.sentinel.smartnodes.co.uk
-RPC | https://rpc.sentinel.smartnodes.co.uk
+API | https://api.sentinel.smartnodes.one
+RPC | https://rpc.sentinel.smartnodes.one
