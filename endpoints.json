@@ -34,10 +34,6 @@
       "api": "https://api.emoney.smartnodes.one",
       "rpc": "https://rpc.emoney.smartnodes.one"
     },
-    "evmos": {
-      "api": "https://api.evmos.smartnodes.one",
-      "rpc": "https://rpc.evmos.smartnodes.one"
-    },
     "fetch": {
       "api": "https://api.fetch.smartnodes.one",
       "rpc": "https://rpc.fetch.smartnodes.one"
@@ -73,10 +69,6 @@
     "odin": {
       "api": "https://api.odin.smartnodes.one",
       "rpc": "https://rpc.odin.smartnodes.one"
-    },
-    "omniflix": {
-      "api": "https://api.omniflix.smartnodes.one",
-      "rpc": "https://rpc.omniflix.smartnodes.one"
     },
     "osmosis": {
       "api": "https://api.osmosis.smartnodes.one",
